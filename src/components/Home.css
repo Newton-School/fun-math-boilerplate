@@ -1,0 +1,25 @@
+
+.pcard{
+  display: flex;
+}
+.card{
+  flex:3;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgb(242, 206, 206);;
+  
+
+}
+div{
+  margin-top: 5px;
+  padding: 3px;
+}
+
+.in{
+  display: flex;
+  flex-direction: row;
+}
+h3{
+  margin-left: 3px;
+}
